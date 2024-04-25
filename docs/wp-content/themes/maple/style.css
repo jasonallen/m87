@@ -2095,7 +2095,7 @@ html .testimonials-style2 .img-container img{
 }
 
 #map_canvas{
-    filter: url(./images/grayscale.svg#greyscale);
+    filter: url(/wp-content/themes/maple/images/grayscale.svg#greyscale);
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     -ms-filter: grayscale(100%);
@@ -2658,7 +2658,7 @@ html[xmlns] .slides {
     z-index: 100;
     cursor: pointer;
     position: absolute !important;
-    background: #f2f2f2 url(./images/sprite.png) -7px -81px;
+    background: #f2f2f2 url(/wp-content/themes/maple/images/sprite.png) -7px -81px;
     width: 50px;
     height: 50px;
     color: transparent;
@@ -2673,18 +2673,18 @@ html[xmlns] .slides {
     z-index: 100;
     cursor: pointer;
     position: absolute !important;
-    background: #f2f2f2 url(./images/sprite.png) -62px -81px;
+    background: #f2f2f2 url(/wp-content/themes/maple/images/sprite.png) -62px -81px;
     width: 50px;
     height: 50px;
     color: transparent;
 }
 
 .nav-light .flexslider .flex-prev:hover {
-    background: #fff url(./images/sprite.png) -7px -81px;
+    background: #fff url(/wp-content/themes/maple/images/sprite.png) -7px -81px;
 }
 
 .nav-light .flexslider .flex-next:hover {
-    background: #fff url(./images/sprite.png) -62px -81px;
+    background: #fff url(/wp-content/themes/maple/images/sprite.png) -62px -81px;
 }
 
 .projects_media.fullwidth_media .flex-direction-nav .flex-prev,.projects_media.fullwidth_media .flex-direction-nav.movies-nav .prev {
@@ -2698,11 +2698,11 @@ html[xmlns] .slides {
 }
 
 .controlnav-light .flexslider .flex-prev:hover {
-    background: #fff url(./images/sprite.png) -7px -81px;
+    background: #fff url(/wp-content/themes/maple/images/sprite.png) -7px -81px;
 }
 
 .controlnav-light .flexslider .flex-next:hover {
-    background: #fff url(./images/sprite.png) -62px -81px;
+    background: #fff url(/wp-content/themes/maple/images/sprite.png) -62px -81px;
 }
 
 /* Pause/Play */
@@ -2949,7 +2949,7 @@ html[xmlns] .slides {
     width: 44px;
     height: 44px;
     font-size: 12px;
-    background: url(./images/sprite.png) no-repeat;
+    background: url(/wp-content/themes/maple/images/sprite.png) no-repeat;
     text-indent: -9999px;
 }
 
@@ -3039,7 +3039,7 @@ html[xmlns] .slides {
 /* preloading images */
 .owl-item.loading {
     min-height: 150px;
-    background: url(./images/ajx_loading.gif) no-repeat center center;
+    background: url(/wp-content/themes/maple/images/ajx_loading.gif) no-repeat center center;
 }
 
 .owl-carousel .owl-wrapper:after {
@@ -3097,7 +3097,7 @@ html[xmlns] .slides {
 }
 
 .grabbing {
-    cursor: url(./grabbing.png) 8 8,move;
+    cursor: url(/wp-content/themes/maple/grabbing.png) 8 8,move;
 }
 
 .owl-carousel .owl-wrapper,.owl-carousel .owl-item {
@@ -6863,7 +6863,7 @@ a.team-profile:hover {
 
 .modal .close {
     float: right;
-    background: url(./images/sprite.png) -188px 3px no-repeat;
+    background: url(/wp-content/themes/maple/images/sprite.png) -188px 3px no-repeat;
     width: 46px;
     height: 46px;
     margin: 30px 40px 30px 0;
@@ -7654,7 +7654,7 @@ a#send-comment:hover {
 }
 
 #big_footer .widget-newsletter input.button {
-    background: url(./images/sprite.png) -111px -333px !important;
+    background: url(/wp-content/themes/maple/images/sprite.png) -111px -333px !important;
     border: none !important;
     float: right;
     margin-left: 10px;
@@ -7711,7 +7711,7 @@ html body container #mc_embed_signup input#mc-embedded-subscribe:hover{opacity: 
 
 .custom-widget .widget-newsletter input.button {
     width: 55px;
-    background: #1a1b1b url(./images/sprite.png) -9px -345px !important;
+    background: #1a1b1b url(/wp-content/themes/maple/images/sprite.png) -9px -345px !important;
     border: none !important;
     float: left;
     margin-left: 5px;

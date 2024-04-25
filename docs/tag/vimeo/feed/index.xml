@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Vimeo &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/tag/vimeo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 13 May 2021 16:32:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Downhill forest</title>
-		<link>./../../../downhill-forest/index.html</link>
-					<comments>./../../../downhill-forest/index.html#respond</comments>
+		<link>/downhill-forest/</link>
+					<comments>/downhill-forest/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Thu, 13 May 2021 16:32:38 +0000</pubDate>
@@ -43,7 +43,7 @@
 </div></div></div></div>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>./../../../downhill-forest/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/downhill-forest/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

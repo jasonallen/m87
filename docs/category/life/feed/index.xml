@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Life &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/category/life/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:13:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Looking into the sea</title>
-		<link>./../../../looking-into-the-sea/index.html</link>
-					<comments>./../../../looking-into-the-sea/index.html#respond</comments>
+		<link>/looking-into-the-sea/</link>
+					<comments>/looking-into-the-sea/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:13:11 +0000</pubDate>
@@ -51,7 +51,7 @@
 </div></div></div></div>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>./../../../looking-into-the-sea/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/looking-into-the-sea/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

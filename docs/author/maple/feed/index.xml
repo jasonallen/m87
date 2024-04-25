@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Maple &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/author/maple/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:42:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Post with Gallery</title>
-		<link>./../../../post-with-gallery/index.html</link>
-					<comments>./../../../post-with-gallery/index.html#respond</comments>
+		<link>/post-with-gallery/</link>
+					<comments>/post-with-gallery/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:42:35 +0000</pubDate>
@@ -47,7 +47,7 @@
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 40px"><span class="vc_empty_space_inner"></span></div>
 <div class="vc_grid-container-wrapper vc_clearfix vc_grid-animation-fadeIn">
-	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847455-cc2d461f-5c1d-9&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="./../../../wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="916202a8fe">
+	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847455-cc2d461f-5c1d-9&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="/wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="ed7df8daa7">
 		
 	</div>
 </div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 60px"><span class="vc_empty_space_inner"></span></div>
@@ -66,21 +66,21 @@
 	</div>
 <div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
 <div class="vc_grid-container-wrapper vc_clearfix vc_grid-animation-fadeIn">
-	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847457-2c5af743-156d-2&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="./../../../wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="916202a8fe">
+	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847457-2c5af743-156d-2&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="/wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="ed7df8daa7">
 		
 	</div>
 </div></div></div></div></div>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>./../../../post-with-gallery/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/post-with-gallery/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>We Love Photography</title>
-		<link>./../../../we-love-photography/index.html</link>
-					<comments>./../../../we-love-photography/index.html#respond</comments>
+		<link>/we-love-photography/</link>
+					<comments>/we-love-photography/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:40:58 +0000</pubDate>
@@ -107,15 +107,15 @@ Continually pursue resource-leveling manufactured products with next-generation 
 </div></div></div></div>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>./../../../we-love-photography/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/we-love-photography/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Woman enjoying ride</title>
-		<link>./../../../woman-enjoying-ride/index.html</link>
-					<comments>./../../../woman-enjoying-ride/index.html#respond</comments>
+		<link>/woman-enjoying-ride/</link>
+					<comments>/woman-enjoying-ride/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:38:48 +0000</pubDate>
@@ -136,15 +136,15 @@ Continually pursue resource-leveling manufactured products with next-generation 
 <p>Professionally transform effective strategic theme areas through interoperable catalysts for change. Professionally maintain interoperable expertise through value-added scenarios. Collaboratively negotiate sustainable strategic theme areas without virtual.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../woman-enjoying-ride/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/woman-enjoying-ride/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Soundcloud Audio Post</title>
-		<link>./../../../soundcloud-audio-post/index.html</link>
-					<comments>./../../../soundcloud-audio-post/index.html#respond</comments>
+		<link>/soundcloud-audio-post/</link>
+					<comments>/soundcloud-audio-post/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:37:25 +0000</pubDate>
@@ -156,15 +156,15 @@ Continually pursue resource-leveling manufactured products with next-generation 
 <p>Rapidiously underwhelm enterprise-wide processes before pandemic growth strategies. Efficiently simplify standardized &#8220;outside the box&#8221; thinking rather than robust potentialities. Professionally reconceptualize user friendly services after bricks-and-clicks markets. Collaboratively disseminate intuitive results vis-a-vis 24/365 services. Authoritatively pursue.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../soundcloud-audio-post/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/soundcloud-audio-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nature Makes You Happy</title>
-		<link>./../../../nature-makes-you-happy/index.html</link>
-					<comments>./../../../nature-makes-you-happy/index.html#respond</comments>
+		<link>/nature-makes-you-happy/</link>
+					<comments>/nature-makes-you-happy/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:36:43 +0000</pubDate>
@@ -175,15 +175,15 @@ Continually pursue resource-leveling manufactured products with next-generation 
 										<content:encoded><![CDATA[<p>Enthusiastically network turnkey results for user friendly scenarios. <span id="more-82"></span>Authoritatively underwhelm market-driven paradigms rather than high-quality e-commerce. Phosfluorescently recaptiualize magnetic channels for standards compliant meta-services. Phosfluorescently network ethical synergy before superior e-services. Phosfluorescently engineer turnkey core competencies via transparent technologies.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../nature-makes-you-happy/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/nature-makes-you-happy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Quote</title>
-		<link>./../../../quote/index.html</link>
-					<comments>./../../../quote/index.html#respond</comments>
+		<link>/quote/</link>
+					<comments>/quote/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:35:38 +0000</pubDate>
@@ -193,15 +193,15 @@ Continually pursue resource-leveling manufactured products with next-generation 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>./../../../quote/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/quote/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Is time to coffee</title>
-		<link>./../../../is-time-to-coffee/index.html</link>
-					<comments>./../../../is-time-to-coffee/index.html#respond</comments>
+		<link>/is-time-to-coffee/</link>
+					<comments>/is-time-to-coffee/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:29:19 +0000</pubDate>
@@ -215,15 +215,15 @@ Continually pursue resource-leveling manufactured products with next-generation 
 <p>Holisticly monetize virtual best practices with plug-and-play &#8220;outside the box&#8221; thinking. Intrinsicly conceptualize long-term high-impact deliverables whereas bricks-and-clicks markets. Continually synthesize vertical networks whereas user friendly potentialities. Efficiently underwhelm synergistic opportunities after resource.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../is-time-to-coffee/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/is-time-to-coffee/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Beauty of Nature</title>
-		<link>./../../../beauty-of-nature/index.html</link>
-					<comments>./../../../beauty-of-nature/index.html#respond</comments>
+		<link>/beauty-of-nature/</link>
+					<comments>/beauty-of-nature/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:26:36 +0000</pubDate>
@@ -235,15 +235,15 @@ Continually pursue resource-leveling manufactured products with next-generation 
 										<content:encoded><![CDATA[<p>Seamlessly enhance highly efficient collaboration and idea-sharing with synergistic content.<span id="more-73"></span> Competently drive maintainable web services rather than frictionless imperatives. Intrinsicly incentivize scalable vortals via maintainable initiatives. Professionally cultivate client-centered models for ethical testing procedures. Continually integrate enabled mindshare without.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../beauty-of-nature/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/beauty-of-nature/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Magazines on a desk</title>
-		<link>./../../../magazines-on-a-desk/index.html</link>
-					<comments>./../../../magazines-on-a-desk/index.html#respond</comments>
+		<link>/magazines-on-a-desk/</link>
+					<comments>/magazines-on-a-desk/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:19:53 +0000</pubDate>
@@ -259,15 +259,15 @@ Continually pursue resource-leveling manufactured products with next-generation 
 <p>Progressively actualize impactful action items without client-based e-tailers. Objectively foster superior channels before tactical scenarios. Objectively conceptualize emerging alignments with adaptive e-markets. Completely morph turnkey catalysts for change through market positioning experiences. Collaboratively.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../magazines-on-a-desk/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/magazines-on-a-desk/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Audio Media Library</title>
-		<link>./../../../audio-media-library/index.html</link>
-					<comments>./../../../audio-media-library/index.html#respond</comments>
+		<link>/audio-media-library/</link>
+					<comments>/audio-media-library/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:18:27 +0000</pubDate>
@@ -280,7 +280,7 @@ Continually pursue resource-leveling manufactured products with next-generation 
 <p>Distinctively reconceptualize impactful services through wireless ROI. Efficiently unleash cost effective web-readiness before premium applications. Efficiently underwhelm 24/365 applications with principle-centered collaboration and idea-sharing. Collaboratively innovate cross-platform web services with revolutionary functionalities. Collaboratively pursue proactive.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../audio-media-library/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/audio-media-library/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

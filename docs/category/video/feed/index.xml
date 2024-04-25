@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Video &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/category/video/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:36:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Nature Makes You Happy</title>
-		<link>./../../../nature-makes-you-happy/index.html</link>
-					<comments>./../../../nature-makes-you-happy/index.html#respond</comments>
+		<link>/nature-makes-you-happy/</link>
+					<comments>/nature-makes-you-happy/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:36:43 +0000</pubDate>
@@ -33,15 +33,15 @@
 										<content:encoded><![CDATA[<p>Enthusiastically network turnkey results for user friendly scenarios. <span id="more-82"></span>Authoritatively underwhelm market-driven paradigms rather than high-quality e-commerce. Phosfluorescently recaptiualize magnetic channels for standards compliant meta-services. Phosfluorescently network ethical synergy before superior e-services. Phosfluorescently engineer turnkey core competencies via transparent technologies.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../nature-makes-you-happy/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/nature-makes-you-happy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Beauty of Nature</title>
-		<link>./../../../beauty-of-nature/index.html</link>
-					<comments>./../../../beauty-of-nature/index.html#respond</comments>
+		<link>/beauty-of-nature/</link>
+					<comments>/beauty-of-nature/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:26:36 +0000</pubDate>
@@ -53,15 +53,15 @@
 										<content:encoded><![CDATA[<p>Seamlessly enhance highly efficient collaboration and idea-sharing with synergistic content.<span id="more-73"></span> Competently drive maintainable web services rather than frictionless imperatives. Intrinsicly incentivize scalable vortals via maintainable initiatives. Professionally cultivate client-centered models for ethical testing procedures. Continually integrate enabled mindshare without.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../beauty-of-nature/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/beauty-of-nature/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Downhill forest</title>
-		<link>./../../../downhill-forest/index.html</link>
-					<comments>./../../../downhill-forest/index.html#respond</comments>
+		<link>/downhill-forest/</link>
+					<comments>/downhill-forest/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Thu, 13 May 2021 16:32:38 +0000</pubDate>
@@ -82,7 +82,7 @@
 </div></div></div></div>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>./../../../downhill-forest/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/downhill-forest/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

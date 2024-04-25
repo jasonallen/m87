@@ -518,12 +518,12 @@ text-align: center;display: inline-block;}
 }
 
 .no_avatar{
-	background: #212121 url(./../../images/sprite.png) no-repeat -447px 25px;
+	background: #212121 url(/wp-content/themes/maple/images/sprite.png) no-repeat -447px 25px;
 	width: 74px;
 	height: 74px;
 }
 .testimonials-style2 .no_avatar{
-	background: #212121 url(./../../images/sprite.png) no-repeat -441px 33px;
+	background: #212121 url(/wp-content/themes/maple/images/sprite.png) no-repeat -441px 33px;
 	width: 88px;
 	height: 88px;
 }

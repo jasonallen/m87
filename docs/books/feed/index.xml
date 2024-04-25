@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Books	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/books/feed/" rel="self" type="application/rss+xml" />
+	<link>/books/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:17:08 +0000</lastBuildDate>
 	<sy:updatePeriod>

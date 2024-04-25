@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Desk &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/tag/desk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:19:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Magazines on a desk</title>
-		<link>./../../../magazines-on-a-desk/index.html</link>
-					<comments>./../../../magazines-on-a-desk/index.html#respond</comments>
+		<link>/magazines-on-a-desk/</link>
+					<comments>/magazines-on-a-desk/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:19:53 +0000</pubDate>
@@ -38,7 +38,7 @@
 <p>Progressively actualize impactful action items without client-based e-tailers. Objectively foster superior channels before tactical scenarios. Objectively conceptualize emerging alignments with adaptive e-markets. Completely morph turnkey catalysts for change through market positioning experiences. Collaboratively.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../magazines-on-a-desk/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/magazines-on-a-desk/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

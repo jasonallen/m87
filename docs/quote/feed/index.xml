@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Quote	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/quote/feed/" rel="self" type="application/rss+xml" />
+	<link>/quote/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:35:38 +0000</lastBuildDate>
 	<sy:updatePeriod>

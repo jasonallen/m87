@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Audio Media Library	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/audio-media-library/feed/" rel="self" type="application/rss+xml" />
+	<link>/audio-media-library/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:18:27 +0000</lastBuildDate>
 	<sy:updatePeriod>

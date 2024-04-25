@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Quote &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/category/quote/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:35:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Quote</title>
-		<link>./../../../quote/index.html</link>
-					<comments>./../../../quote/index.html#respond</comments>
+		<link>/quote/</link>
+					<comments>/quote/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:35:38 +0000</pubDate>
@@ -32,7 +32,7 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>./../../../quote/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/quote/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

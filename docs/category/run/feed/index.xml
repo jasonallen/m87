@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Run &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/category/run/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:15:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>On top of the World</title>
-		<link>./../../../on-top-of-the-world/index.html</link>
-					<comments>./../../../on-top-of-the-world/index.html#respond</comments>
+		<link>/on-top-of-the-world/</link>
+					<comments>/on-top-of-the-world/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:15:10 +0000</pubDate>
@@ -40,7 +40,7 @@
 <p>Competently revolutionize strategic e-tailers through fully tested imperatives. Proactively synthesize scalable metrics rather than diverse systems. Uniquely target cutting-edge innovation vis-a-vis covalent deliverables. Professionally facilitate business imperatives via interactive users.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../on-top-of-the-world/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/on-top-of-the-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

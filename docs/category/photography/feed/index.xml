@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Photography &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/category/photography/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:42:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Post with Gallery</title>
-		<link>./../../../post-with-gallery/index.html</link>
-					<comments>./../../../post-with-gallery/index.html#respond</comments>
+		<link>/post-with-gallery/</link>
+					<comments>/post-with-gallery/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:42:35 +0000</pubDate>
@@ -47,7 +47,7 @@
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 40px"><span class="vc_empty_space_inner"></span></div>
 <div class="vc_grid-container-wrapper vc_clearfix vc_grid-animation-fadeIn">
-	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847455-cc2d461f-5c1d-9&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="./../../../wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="916202a8fe">
+	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847455-cc2d461f-5c1d-9&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="/wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="ed7df8daa7">
 		
 	</div>
 </div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 60px"><span class="vc_empty_space_inner"></span></div>
@@ -66,21 +66,21 @@
 	</div>
 <div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
 <div class="vc_grid-container-wrapper vc_clearfix vc_grid-animation-fadeIn">
-	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847457-2c5af743-156d-2&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="./../../../wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="916202a8fe">
+	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847457-2c5af743-156d-2&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="/wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="ed7df8daa7">
 		
 	</div>
 </div></div></div></div></div>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>./../../../post-with-gallery/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/post-with-gallery/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>We Love Photography</title>
-		<link>./../../../we-love-photography/index.html</link>
-					<comments>./../../../we-love-photography/index.html#respond</comments>
+		<link>/we-love-photography/</link>
+					<comments>/we-love-photography/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:40:58 +0000</pubDate>
@@ -107,7 +107,7 @@ Continually pursue resource-leveling manufactured products with next-generation 
 </div></div></div></div>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>./../../../we-love-photography/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/we-love-photography/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

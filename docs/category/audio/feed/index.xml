@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Audio &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/category/audio/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:37:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Soundcloud Audio Post</title>
-		<link>./../../../soundcloud-audio-post/index.html</link>
-					<comments>./../../../soundcloud-audio-post/index.html#respond</comments>
+		<link>/soundcloud-audio-post/</link>
+					<comments>/soundcloud-audio-post/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:37:25 +0000</pubDate>
@@ -34,15 +34,15 @@
 <p>Rapidiously underwhelm enterprise-wide processes before pandemic growth strategies. Efficiently simplify standardized &#8220;outside the box&#8221; thinking rather than robust potentialities. Professionally reconceptualize user friendly services after bricks-and-clicks markets. Collaboratively disseminate intuitive results vis-a-vis 24/365 services. Authoritatively pursue.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../soundcloud-audio-post/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/soundcloud-audio-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Audio Media Library</title>
-		<link>./../../../audio-media-library/index.html</link>
-					<comments>./../../../audio-media-library/index.html#respond</comments>
+		<link>/audio-media-library/</link>
+					<comments>/audio-media-library/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:18:27 +0000</pubDate>
@@ -55,7 +55,7 @@
 <p>Distinctively reconceptualize impactful services through wireless ROI. Efficiently unleash cost effective web-readiness before premium applications. Efficiently underwhelm 24/365 applications with principle-centered collaboration and idea-sharing. Collaboratively innovate cross-platform web services with revolutionary functionalities. Collaboratively pursue proactive.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../audio-media-library/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/audio-media-library/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

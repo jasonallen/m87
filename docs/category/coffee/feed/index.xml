@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Coffee &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/category/coffee/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:29:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Is time to coffee</title>
-		<link>./../../../is-time-to-coffee/index.html</link>
-					<comments>./../../../is-time-to-coffee/index.html#respond</comments>
+		<link>/is-time-to-coffee/</link>
+					<comments>/is-time-to-coffee/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:29:19 +0000</pubDate>
@@ -36,7 +36,7 @@
 <p>Holisticly monetize virtual best practices with plug-and-play &#8220;outside the box&#8221; thinking. Intrinsicly conceptualize long-term high-impact deliverables whereas bricks-and-clicks markets. Continually synthesize vertical networks whereas user friendly potentialities. Efficiently underwhelm synergistic opportunities after resource.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../is-time-to-coffee/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/is-time-to-coffee/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

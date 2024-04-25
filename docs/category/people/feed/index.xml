@@ -9,8 +9,8 @@
 
 <channel>
 	<title>People &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/category/people/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:42:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Post with Gallery</title>
-		<link>./../../../post-with-gallery/index.html</link>
-					<comments>./../../../post-with-gallery/index.html#respond</comments>
+		<link>/post-with-gallery/</link>
+					<comments>/post-with-gallery/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:42:35 +0000</pubDate>
@@ -47,7 +47,7 @@
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 40px"><span class="vc_empty_space_inner"></span></div>
 <div class="vc_grid-container-wrapper vc_clearfix vc_grid-animation-fadeIn">
-	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847455-cc2d461f-5c1d-9&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="./../../../wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="916202a8fe">
+	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847455-cc2d461f-5c1d-9&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="/wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="ed7df8daa7">
 		
 	</div>
 </div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 60px"><span class="vc_empty_space_inner"></span></div>
@@ -66,21 +66,21 @@
 	</div>
 <div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
 <div class="vc_grid-container-wrapper vc_clearfix vc_grid-animation-fadeIn">
-	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847457-2c5af743-156d-2&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="./../../../wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="916202a8fe">
+	<div class="vc_grid-container vc_clearfix wpb_content_element vc_media_grid" data-initial-loading-animation="fadeIn" data-vc-grid-settings="{&quot;page_id&quot;:92,&quot;style&quot;:&quot;all&quot;,&quot;action&quot;:&quot;vc_get_vc_grid_data&quot;,&quot;shortcode_id&quot;:&quot;1621178847457-2c5af743-156d-2&quot;,&quot;tag&quot;:&quot;vc_media_grid&quot;}" data-vc-request="/wp-admin/admin-ajax.php" data-vc-post-id="92" data-vc-public-nonce="ed7df8daa7">
 		
 	</div>
 </div></div></div></div></div>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>./../../../post-with-gallery/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/post-with-gallery/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Woman enjoying ride</title>
-		<link>./../../../woman-enjoying-ride/index.html</link>
-					<comments>./../../../woman-enjoying-ride/index.html#respond</comments>
+		<link>/woman-enjoying-ride/</link>
+					<comments>/woman-enjoying-ride/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:38:48 +0000</pubDate>
@@ -101,15 +101,15 @@
 <p>Professionally transform effective strategic theme areas through interoperable catalysts for change. Professionally maintain interoperable expertise through value-added scenarios. Collaboratively negotiate sustainable strategic theme areas without virtual.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../woman-enjoying-ride/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/woman-enjoying-ride/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Books</title>
-		<link>./../../../books/index.html</link>
-					<comments>./../../../books/index.html#respond</comments>
+		<link>/books/</link>
+					<comments>/books/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:17:08 +0000</pubDate>
@@ -133,21 +133,21 @@
 	<div  class="wpb_single_image wpb_content_element vc_align_left">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="524" height="675" src="./../../../wp-content/uploads/2021/05/mproject1.jpg" class="vc_single_image-img attachment-full" alt="" title="mproject1" srcset="./../../../wp-content/uploads/2021/05/mproject1.jpg 524w, ./../../../wp-content/uploads/2021/05/mproject1-233x300.jpg 233w" sizes="(max-width: 524px) 100vw, 524px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="524" height="675" src="/wp-content/uploads/2021/05/mproject1.jpg" class="vc_single_image-img attachment-full" alt="" title="mproject1" srcset="/wp-content/uploads/2021/05/mproject1.jpg 524w, /wp-content/uploads/2021/05/mproject1-233x300.jpg 233w" sizes="(max-width: 524px) 100vw, 524px" /></div>
 		</figure>
 	</div>
 </div></div></div></div>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>./../../../books/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/books/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>On top of the World</title>
-		<link>./../../../on-top-of-the-world/index.html</link>
-					<comments>./../../../on-top-of-the-world/index.html#respond</comments>
+		<link>/on-top-of-the-world/</link>
+					<comments>/on-top-of-the-world/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:15:10 +0000</pubDate>
@@ -165,15 +165,15 @@
 <p>Competently revolutionize strategic e-tailers through fully tested imperatives. Proactively synthesize scalable metrics rather than diverse systems. Uniquely target cutting-edge innovation vis-a-vis covalent deliverables. Professionally facilitate business imperatives via interactive users.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../on-top-of-the-world/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/on-top-of-the-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Looking into the sea</title>
-		<link>./../../../looking-into-the-sea/index.html</link>
-					<comments>./../../../looking-into-the-sea/index.html#respond</comments>
+		<link>/looking-into-the-sea/</link>
+					<comments>/looking-into-the-sea/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:13:11 +0000</pubDate>
@@ -202,7 +202,7 @@
 </div></div></div></div>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>./../../../looking-into-the-sea/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/looking-into-the-sea/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

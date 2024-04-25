@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Magazine &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/category/magazine/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:19:53 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Magazines on a desk</title>
-		<link>./../../../magazines-on-a-desk/index.html</link>
-					<comments>./../../../magazines-on-a-desk/index.html#respond</comments>
+		<link>/magazines-on-a-desk/</link>
+					<comments>/magazines-on-a-desk/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:19:53 +0000</pubDate>
@@ -38,15 +38,15 @@
 <p>Progressively actualize impactful action items without client-based e-tailers. Objectively foster superior channels before tactical scenarios. Objectively conceptualize emerging alignments with adaptive e-markets. Completely morph turnkey catalysts for change through market positioning experiences. Collaboratively.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../magazines-on-a-desk/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/magazines-on-a-desk/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Books</title>
-		<link>./../../../books/index.html</link>
-					<comments>./../../../books/index.html#respond</comments>
+		<link>/books/</link>
+					<comments>/books/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:17:08 +0000</pubDate>
@@ -70,13 +70,13 @@
 	<div  class="wpb_single_image wpb_content_element vc_align_left">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="524" height="675" src="./../../../wp-content/uploads/2021/05/mproject1.jpg" class="vc_single_image-img attachment-full" alt="" title="mproject1" srcset="./../../../wp-content/uploads/2021/05/mproject1.jpg 524w, ./../../../wp-content/uploads/2021/05/mproject1-233x300.jpg 233w" sizes="(max-width: 524px) 100vw, 524px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img fetchpriority="high" decoding="async" width="524" height="675" src="/wp-content/uploads/2021/05/mproject1.jpg" class="vc_single_image-img attachment-full" alt="" title="mproject1" srcset="/wp-content/uploads/2021/05/mproject1.jpg 524w, /wp-content/uploads/2021/05/mproject1-233x300.jpg 233w" sizes="(max-width: 524px) 100vw, 524px" /></div>
 		</figure>
 	</div>
 </div></div></div></div>
 </div>]]></content:encoded>
 					
-					<wfw:commentRss>./../../../books/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/books/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

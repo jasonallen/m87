@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Youtube &#8211; M87</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="/tag/youtube/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:26:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
 		<title>Beauty of Nature</title>
-		<link>./../../../beauty-of-nature/index.html</link>
-					<comments>./../../../beauty-of-nature/index.html#respond</comments>
+		<link>/beauty-of-nature/</link>
+					<comments>/beauty-of-nature/#respond</comments>
 		
 		<dc:creator><![CDATA[Maple]]></dc:creator>
 		<pubDate>Fri, 14 May 2021 17:26:36 +0000</pubDate>
@@ -34,7 +34,7 @@
 										<content:encoded><![CDATA[<p>Seamlessly enhance highly efficient collaboration and idea-sharing with synergistic content.<span id="more-73"></span> Competently drive maintainable web services rather than frictionless imperatives. Intrinsicly incentivize scalable vortals via maintainable initiatives. Professionally cultivate client-centered models for ethical testing procedures. Continually integrate enabled mindshare without.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../beauty-of-nature/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/beauty-of-nature/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

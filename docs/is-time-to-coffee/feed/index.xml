@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Is time to coffee	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/is-time-to-coffee/feed/" rel="self" type="application/rss+xml" />
+	<link>/is-time-to-coffee/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 May 2021 17:29:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
