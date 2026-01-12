@@ -214,7 +214,7 @@
             let glowCy = cy + cos(time * 2) * 2;
             
             let resolution = 3;
-            let extent = baseRadius * 2.2;
+            let extent = baseRadius * 3;
             
             for (let x = glowCx - extent; x < glowCx + extent; x += resolution) {
                 for (let y = glowCy - extent; y < glowCy + extent; y += resolution) {
@@ -269,12 +269,12 @@
                     
                     if (intensity < 0.04) continue;
                     
-                    let alpha = intensity * 35;
+                    let alpha = intensity * 140;
                     
                     let warmth = intensity * noiseVal;
-                    let red = lerp(100, 190, warmth);
-                    let green = lerp(45, 95, warmth);
-                    let blue = lerp(35, 55, warmth);
+                    let red = lerp(140, 255, warmth);
+                    let green = lerp(60, 130, warmth);
+                    let blue = lerp(40, 70, warmth);
                     
                     glowBuffer.fill(red, green, blue, alpha);
                     glowBuffer.ellipse(x, y, resolution * 2.5);
